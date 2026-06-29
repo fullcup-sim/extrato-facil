@@ -6,3 +6,4 @@
 - 2026-05-21: OCR de fatura impressa
 - 2026-06-27: Categorização automática
 - 2026-06-28: Categorização automática
+- 2026-06-29: Categorização automática
