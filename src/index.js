@@ -35,3 +35,4 @@ module.exports.descricao = "Leitura de fatura por foto, categoriza gasto sem exi
 // 2026-08-07T17:54:00Z manutencao
 // 2026-08-08T16:20:00Z manutencao
 // 2026-08-10T11:04:00Z manutencao
+// 2026-08-11T16:30:00Z Comparação mês a mês
