@@ -38,3 +38,4 @@
 - 2026-08-11: Comparação mês a mês
 - 2026-08-12: Comparação mês a mês
 - 2026-08-13: Comparação mês a mês
+- 2026-08-14: Comparação mês a mês
