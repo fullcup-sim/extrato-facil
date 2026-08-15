@@ -40,3 +40,4 @@
 - 2026-08-13: Comparação mês a mês
 - 2026-08-14: Comparação mês a mês
 - 2026-08-15: manutencao
+- 2026-08-15: manutencao
